@@ -1,3 +1,2 @@
-v1.2 - Nieuwste versie (Aanbevolen)|firmware_v1.2.bin
 v1.1 - Stabiele versie (Standaard)|firmware_v1.1.bin
 v1.0 - Basisversie (Zonder Wi-Fi lijst)|firmware_v1.0.bin
