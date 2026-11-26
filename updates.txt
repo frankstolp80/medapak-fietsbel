@@ -1,4 +1,4 @@
-v1.3 - Basisversie (Logo op het opstartscherm, Zelfherstellende iPhone Web-App, Volledige functionaliteit)|firmware_v1.3.bin
+v1.3 - Basisversie (Logo op het opstartscherm, Zelfherstellende Web-App, Auto-Connect, Volledige functionaliteit)|firmware_v1.3.bin
 v1.2 - Basisversie (Met nieuwe wifi & beltoon menu, Volledige functionaliteit)|firmware_v1.2.bin
 v1.1 - Basisversie (Met Wi-Fi lijst en OTA updates, Razendsnelle weergave, Volledige functionaliteit)|firmware_v1.1.bin
 v1.0 - Basisversie (Zonder Wi-Fi lijst en OTA updates)|firmware_v1.0.bin
