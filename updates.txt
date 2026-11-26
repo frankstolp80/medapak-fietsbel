@@ -1,3 +1,4 @@
+v1.4 - Basisversie (Volledige Seriële Monitor-logging, Nieuwe GitHub-repository, Stabiele audio, Volledige functionaliteit)|firmware_v1.4.bin
 v1.3 - Basisversie (Logo op het opstartscherm, Zelfherstellende Web-App, Auto-Connect, Volledige functionaliteit)|firmware_v1.3.bin
 v1.2 - Basisversie (Met nieuwe wifi & beltoon menu, Volledige functionaliteit)|firmware_v1.2.bin
 v1.1 - Basisversie (Met Wi-Fi lijst en OTA updates, Razendsnelle weergave, Volledige functionaliteit)|firmware_v1.1.bin
